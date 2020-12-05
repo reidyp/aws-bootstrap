@@ -263,3 +263,4 @@ Outputs:
     Value:  !Sub "http://${Instance.PublicDnsName}:8080"
     Export:
       Name: InstanceEndpoint
+
