@@ -53,3 +53,4 @@ if [ $? -eq 0 ]; then
     --query "Exports[?Name=='InstanceEndpoint'].Value" 
 fi
 
+
